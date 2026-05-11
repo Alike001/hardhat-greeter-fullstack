@@ -3,6 +3,7 @@ node_modules/
 .env.local
 artifacts/
 cache/
+**/ignition/deployments/chain-*/
 coverage/
 typechain-types/
 dist/
