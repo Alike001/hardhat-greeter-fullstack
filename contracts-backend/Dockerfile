@@ -8,6 +8,7 @@ RUN npm install
 COPY hardhat.config.ts tsconfig.json ./
 COPY contracts ./contracts
 COPY ignition ./ignition
+COPY artifacts ./artifacts
 
 EXPOSE 8545
 

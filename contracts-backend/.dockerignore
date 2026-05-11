@@ -1,6 +1,5 @@
 node_modules
 npm-debug.log
-artifacts
 cache
 ignition/deployments/chain-*
 test
